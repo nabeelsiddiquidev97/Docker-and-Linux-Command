@@ -1,0 +1,23 @@
+-------Commands run for Docker Desktop-----
+
+docker images
+docker ps
+docker pull alpine
+docker images
+docker run -d -t alpine
+docker run -it alpine sh
+docker run -it --name=NabeelLinux alpine sh
+docker ps -a
+
+
+---- Linux Commands------------
+ls -R
+ls -a
+ls -lh
+mkdir Nabeel
+ls
+
+
+grep
+mv
+cp
